@@ -1,0 +1,25 @@
+/***
+      Script dijamin gacor karena ada 32 function
+      Support termux
+      On 24jam karena script ini ringan
+      Metode pairingCode
+      
+*/
+CARA PENGGUNAAN:
+     pkg install python -y (Lu Y in Semua)
+     pkg install git -y (Lu Y in semua juga)
+     pip install requests
+     python index.py
+     
+
+
+CARA PENGGUNAAN DENGAN GIT CLONE:
+     pkg install python -y (Lu Y in Semua)
+     pkg install git -y (Lu Y in semua juga)
+     git clone https://github.com/nekomonTech/romancrash
+     cd romancrash
+     pip install requests
+     python index.py
+     
+     *KELAR TINGGAL MASUKIN NOMOR WA LU*
+     
